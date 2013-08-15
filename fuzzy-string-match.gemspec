@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/kiyoka/fuzzy-string-match"
   s.require_paths = ["lib"]
-  s.required_ruby_version = Gem::Requirement.new(">= 1.9.1")
+  s.required_ruby_version = Gem::Requirement.new(">= 1.8.7")
   s.rubygems_version = "2.0.3"
   s.summary = "fuzzy string matching library"
 
